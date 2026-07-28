@@ -1,6 +1,6 @@
 # Hi, I'm Eduardo Leite 👋
 
-**Data Analyst / Engineer focused on Latin American Energy Markets** ⚡⛽
+**Data Analyst / Physics undergraduate focused on Latin American Energy Markets** ⚡⛽
 
 I build automated pipelines, web scrapers, and data architectures to transform raw regulatory, gas, and power market data into actionable market intelligence.
 
